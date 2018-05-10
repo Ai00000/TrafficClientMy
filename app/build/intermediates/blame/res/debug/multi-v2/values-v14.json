@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "227,383",
+                        "endLines": "9,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "375,589"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,206",
+                        "endLines": "4,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "201,408"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+		INJECTED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:11:22-64
+application
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:14:5-49:19
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:18:9-41
+	android:hardwareAccelerated
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:15:9-44
+	android:icon
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:19:9-28
+activity#com.mad.trafficclient.activity.Activity_Guide
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:22:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.mad.trafficclient.activity.Activity_Main
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:29:9-31:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:30:13-72
+activity#com.mad.trafficclient.activity.Activity_Login
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:32:9-34:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:33:13-73
+activity#com.mad.trafficclient.activity.Activity_Reg
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:35:9-37:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:37:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:36:13-71
+activity#com.mad.trafficclient.activity.Activity_CarPeccancy
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:38:9-40:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:40:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:39:13-79
+activity#com.mad.trafficclient.activity.Activity_PeccancyImg
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:41:9-43:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:43:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:42:13-58
+activity#com.mad.trafficclient.activity.Activity_Img
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:44:9-46:49
+	android:label
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:45:13-71
+service#com.mad.trafficclient.service.YuzhiService
+ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:48:9-78
+	android:name
+		ADDED from F:\TrafficClient-ok -quan_2\TrafficClient-ok -quan_2\TrafficClient-ok -quan\app\src\main\AndroidManifest.xml:48:18-75

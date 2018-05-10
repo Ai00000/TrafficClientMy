@@ -1,0 +1,129 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "227,383",
+                        "endLines": "9,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "375,589"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,206",
+                        "endLines": "4,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "201,408"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "34,6,4,5,13,17,45,9,7,8,31,30,11,15,14,26,28,29,23,21,25,24,22,19,20,27,12,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1409,156,65,112,455,589,1751,288,204,247,1306,1255,375,546,500,1045,1158,1207,875,756,988,931,817,644,699,1101,413,336",
+                        "endLines": "43,6,4,5,13,17,45,9,7,8,32,30,11,15,14,26,28,29,23,21,25,24,22,19,20,27,12,10",
+                        "endColumns": "19,46,45,42,43,47,69,46,41,39,57,49,36,39,44,54,47,46,54,59,55,55,56,53,55,55,40,37",
+                        "endOffsets": "1686,198,106,150,494,632,1816,330,241,282,1401,1300,407,581,540,1095,1201,1249,925,811,1039,982,869,693,750,1152,449,369"
+                    },
+                    "to": {
+                        "startLines": "2,30,31,32,33,34,35,36,37,38,39,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,1133,1180,1226,1269,1313,1361,1431,1478,1520,1560,1659,1709,1746,1786,1831,1886,1934,1981,2036,2096,2152,2208,2265,2319,2375,2431,2472",
+                        "endLines": "11,30,31,32,33,34,35,36,37,38,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57",
+                        "endColumns": "19,46,45,42,43,47,69,46,41,39,57,49,36,39,44,54,47,46,54,59,55,55,56,53,55,55,40,37",
+                        "endOffsets": "323,1175,1221,1264,1308,1356,1426,1473,1515,1555,1654,1704,1741,1781,1826,1881,1929,1976,2031,2091,2147,2203,2260,2314,2370,2426,2467,2505"
+                    }
+                },
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "28,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1019,1077",
+                        "endColumns": "57,55",
+                        "endOffsets": "1072,1128"
+                    }
+                },
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15,19,23,28",
+                        "startColumns": "4,4,8,5,4",
+                        "startOffsets": "192,525,729,895,1053",
+                        "endLines": "12,17,21,25,34",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "484,713,882,1043,1488"
+                    },
+                    "to": {
+                        "startLines": "58,65,68,71,74",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "2510,2801,2992,3148,3299",
+                        "endLines": "64,67,70,73,80",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "2796,2987,3143,3294,3728"
+                    }
+                },
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,19,14,12,13,21,11,4,5,7,8,9,10,6,20,18",
+                        "startColumns": "1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,650,553,462,507,730,420,98,144,236,278,325,369,190,691,609",
+                        "endColumns": "36,39,44,43,44,42,40,44,44,40,45,42,49,44,37,39",
+                        "endOffsets": "92,685,593,501,547,768,456,138,184,272,319,363,414,230,724,644"
+                    },
+                    "to": {
+                        "startLines": "12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "328,368,408,453,497,542,585,626,671,716,757,803,846,896,941,979",
+                        "endColumns": "39,39,44,43,44,42,40,44,44,40,45,42,49,44,37,39",
+                        "endOffsets": "363,403,448,492,537,580,621,666,711,752,798,841,891,936,974,1014"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "183",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "317"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

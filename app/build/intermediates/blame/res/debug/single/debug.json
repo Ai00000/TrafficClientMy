@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_skype.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_skype.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xuefulan.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\xuefulan.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_x_y.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\x_y.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fengtian.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\fengtian.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon102.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon102.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_speed.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_speed.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_video_icon.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\video_icon.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_download.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_download.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flash.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\flash.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cartwo.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\cartwo.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_sex.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_sex.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_idea.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\idea.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_touxiang_2.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_2.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_twitter.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_twitter.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_etc.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_etc.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_8_rechargelog.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_8_rechargelog.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_layout.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_biaozhi.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\biaozhi.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leftitem_font_selector.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\leftitem_font_selector.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_windows.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_windows.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_repeat.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_repeat.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_target.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_target.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon103.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon103.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_age.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_age.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_green.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable\\bar_green.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xiandai.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\xiandai.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_trafic.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_trafic.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\login.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_book.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_book.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exit.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\exit.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wm5.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\wm5.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_star.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_star.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon104.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon104.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_touxiang_1.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-xhdpi\\touxiang_1.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_trafficlight.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\dialog_trafficlight.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_option_checked.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\option_checked.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_biyadi.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\biyadi.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add2.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\add2.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_layout04.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_layout04.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dazhong.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\dazhong.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_1.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_1.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_detail_peccancy.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\adapter_detail_peccancy.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_setting.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\login_setting.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_action.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_action.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_bwm.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\bwm.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_car1.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\car1.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_speech_3.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_speech_3.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_arrows.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_arrows.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_fg3.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\adapter_fg3.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wm4.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\wm4.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_6_co.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_6_co.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_user.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_user.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_dialog.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_time.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_time.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_layout.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\menu_layout.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weizhang03.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\weizhang03.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhonghua.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\zhonghua.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_parking.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_parking.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_share.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_share.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_idea.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_idea.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon101.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon101.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_num.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_num.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reg.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_reg.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_type.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable\\type.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_grid.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_grid.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_8_personal.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_8_personal.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weizhang02.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\weizhang02.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baoma.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\baoma.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audi.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\audi.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_traffic.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\traffic.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar_red.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable\\bar_red.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_benchi.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\benchi.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_gridview_item.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_lv_fg8_personal.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\lv_fg8_personal.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_car3.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\car3.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wm1.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\wm1.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weizhang01.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\weizhang01.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_layout03.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_layout03.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_img.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_img.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_8_yuzhi.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_8_yuzhi.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_2.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_2.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_p.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\p.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_tag.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tag.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mazhida.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\mazhida.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_6.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_6.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_lamp.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_lamp.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wm2.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\wm2.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\anim_in.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\anim\\in.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_car4.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\car4.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_3.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_3.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tesila.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\tesila.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voervo.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\voervo.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_slideshow.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_slideshow.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sibalu.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\sibalu.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_left_list_fragment_item.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\left_list_fragment_item.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_change.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\change.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_light.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_light.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wm3.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\wm3.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_5.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_5.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_6_pm.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_6_pm.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_adapter_carpeccancy.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\adapter_carpeccancy.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_carone.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\carone.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_busstop.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_busstop.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fute.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\fute.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_lv_fg8_rechargelog.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\lv_fg8_rechargelog.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_tumblr.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_tumblr.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_4.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_4.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_fg1.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\dialog_fg1.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_6_humidity.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_6_humidity.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weizhang04.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\weizhang04.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_richan.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\richan.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\anim_out.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\anim\\out.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bieke.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\bieke.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_lv_fg1.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\lv_fg1.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_7_pec.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_7_pec.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sanling.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\sanling.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_x_z.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\x_z.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_suitcase.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_suitcase.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon105.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon105.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_car_peccancy.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_car_peccancy.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_2.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_2.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_6_temp.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_6_temp.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bentian.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\bentian.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\raw_car2.3gp.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\raw\\car2.3gp"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_8.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\fragment_8.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_peccancy_img.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\layout\\activity_peccancy_img.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_1.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\icon_1.png"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qirui.jpg.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\qirui.jpg"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linear.xml.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable\\linear.xml"
+    },
+    {
+        "merged": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_l_upload.png.flat",
+        "source": "F:\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan_2\\TrafficClient-ok -quan\\app\\src\\main\\res\\drawable-hdpi\\btn_l_upload.png"
+    }
+]

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:background="@drawable/login">
+
+    <TextView
+        android:id="@+id/textview_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="01"
+        android:padding="10dp"
+        android:textColor="@android:color/black" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:orientation="horizontal">
+
+        <TextView
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:gravity="right"
+        android:text="服务器地址："
+        android:textColor="#1592d8"></TextView>
+
+    <EditText
+        android:id="@+id/edit_eg_url"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="left"
+        android:lines="1"
+        android:text="192.168.1.104"></EditText>
+</LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:gravity="right"
+            android:text="端口号："
+            android:textColor="#1592d8" >
+        </TextView>
+
+        <EditText
+            android:id="@+id/edit_eg_port"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="left"
+            android:lines="1"
+            android:text="8080"
+            >
+
+        </EditText>
+    </LinearLayout>
+    
+          
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+	    <Button
+	        android:id="@+id/button_query_DefaultHttpClient"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="DefaultHttpClient查询" />
+	    
+	    <Button
+	        android:id="@+id/button_query_Volley"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="10dp"
+	        android:text="Volley查询" />
+    </LinearLayout>
+    <TextView
+        android:id="@+id/textview_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="01"
+        android:padding="10dp"
+        android:textColor="@android:color/black" />   
+ 
+
+</LinearLayout>

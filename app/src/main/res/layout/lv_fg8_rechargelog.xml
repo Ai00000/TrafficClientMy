@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tv_postion_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_number_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_userName_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_money_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_balance_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/tv_date_fg8RechLv"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text=""
+        android:textSize="25sp" />
+
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="bgred">#ee6e55</color>
+    <color name="light_blue">#4A92FC</color>
+    <color name="light_gray">#CCCCCC</color>
+    <color name="listselect">#1492d7</color>
+    <color name="listbg">#f8f8f8</color>
+    <color name="listfocused">#ff0000</color>
+    <color name="listfont">#878c90</color>
+    <color name="listfontfocused">#ffffff</color>
+    <color name="leftbg">#e8f0f8</color>
+    <color name="colorBlue">#1492d7</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000</color>
+    <color name="greeen">#FF00FF55</color>
+
+</resources>

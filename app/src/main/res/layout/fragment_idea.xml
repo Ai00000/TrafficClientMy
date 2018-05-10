@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="出行建议"
+        android:textSize="50dp"
+        android:textColor="@color/listselect"
+        android:layout_marginTop="40dp" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="健康生活、绿色出行、为了您的健康、请爱护环境、减少空气污染、从我做起！！！"
+        android:textSize="30dp"
+        android:singleLine="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:textColor="@color/listselect"
+        android:layout_marginTop="120dp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="40dp"
+        android:layout_height="300dp"
+        android:background="@color/red"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="110dp"/>
+    <View
+        android:id="@+id/view2"
+        android:layout_width="40dp"
+        android:layout_height="150dp"
+        android:background="@color/greeen"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="110dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginBottom="50dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="200"
+        android:textSize="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="80dp"
+        android:layout_marginBottom="200dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PM2.5比例图"
+        android:textSize="30dp"
+        android:layout_above="@+id/view1"
+        android:layout_marginLeft="35dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PM2.5实时图"
+        android:textSize="30dp"
+        android:layout_above="@+id/view1"
+        android:layout_marginLeft="290dp"/>
+    <ProgressBar
+        android:id="@+id/progressBar_idea"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="350dp"
+        android:layout_marginBottom="50dp"
+        style="@style/progressbar"
+        android:max="400"
+        android:layout_width="40dp"
+        android:layout_height="300dp"/>
+
+    <TextView
+        android:id="@+id/tv_pm_now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="200dp"
+        android:layout_marginLeft="410dp"/>
+
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="280dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/linear"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="实现功能"
+            android:textColor="@color/listselect"
+            android:layout_marginLeft="10dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="1、动态页面"
+            android:textColor="@color/listselect"
+            android:layout_marginLeft="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="2、根据当前PM2.5值给予用户出行建议"
+            android:textColor="@color/listselect"
+            android:layout_marginLeft="20dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="25dp"
+            android:text="3、10秒刷新一次"
+            android:textColor="@color/listselect"
+            android:layout_marginLeft="20dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/iv_show"
+        android:background="@drawable/flash"/>
+</RelativeLayout>
